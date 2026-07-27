@@ -92,7 +92,7 @@ Customer-Churn-Analysis/
 ## 📷 Dashboard Preview
 
 
-Images/<img width="1917" height="725" alt="Dashboard" src="https://github.com/user-attachments/assets/6fecec4c-bbb5-47e9-8228-50a99f61b76f" />
+<img width="1917" height="725" alt="Dashboard" src="https://github.com/user-attachments/assets/6fecec4c-bbb5-47e9-8228-50a99f61b76f" />
 
 
 
